@@ -163,5 +163,5 @@ with col_right:
 
     # --- Résultats ---
     col_res1, col_res2 = st.columns(2)
-    col_res1.success(f"🌡️ **Résultat simulé (mesuré)** : {T_cible_exp:.2f} °C")
-    col_res2.info(f"🧠 **Valeur exacte (théorique)** : {T_cible_exact:.2f} °C")
+ #   col_res1.success(f"🌡️ **Résultat simulé (mesuré)** : {T_cible_exp:.2f} °C")
+ #   col_res2.info(f"🧠 **Valeur exacte (théorique)** : {T_cible_exact:.2f} °C")
